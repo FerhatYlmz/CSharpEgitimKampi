@@ -182,7 +182,7 @@ namespace _02_Veriables
 
             //char gender;
             //Console.Write("Lüften Cinsiyet Seçiniz: ");
-            //gender= char.Parse(Console.ReadLine());
+            //gender = char.Parse(Console.ReadLine());
 
             //Console.WriteLine("Seçtiğiniz cinsiyet: " + gender);
 
