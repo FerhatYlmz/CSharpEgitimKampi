@@ -1,19 +1,24 @@
 *** C# Eğitim Projeleri ***
 Bu repository, Murat Yücedağ'ın rehberliğinde katıldığım C# Eğitim Kampı kapsamında geliştirdiğim ilk 9 projeyi içermektedir. Her proje, C# dilindeki çeşitli temel ve ileri düzey kavramları anlamama ve uygulama yeteneğimi geliştirmeme olanak tanımıştır. Aşağıda projeler hakkında detaylı açıklamalar bulabilirsiniz:
 
-🔹 Proje 1: İlk Program - Merhaba Dünya!
+🔹 Proje 1: Merhaba Dünya!
+
 Bu projede, konsola metin yazdırmanın temelini attım. Console.WriteLine() komutunu kullanarak, C# dilindeki en temel yapı taşlarından biri olan ekrana bilgi yazdırma işlemini gerçekleştirdim.
 
 🔹 Proje 2: Veri Tipleri ve Değişkenler
+
 Bu aşamada, farklı veri türleri (int, double, string) hakkında bilgi edinerek, programlama dilinde veri saklama ve manipülasyonu üzerine çalışmalar yaptım. Değişkenlerin kullanımını pekiştirerek, temel hesaplamalar gerçekleştirdim.
 
 🔹 Proje 3: Dizilerle Veri Depolama
+
 Diziler hakkında kapsamlı bir çalışma gerçekleştirdim. Birden fazla değeri aynı türde depolama ve bu veriler üzerinde döngülerle işlem yapma yeteneği kazandım. Bu proje, veri gruplarıyla verimli çalışma becerisini geliştirmemi sağladı.
 
 🔹 Proje 4: Karar Yapıları - Koşul İfadeleri
+
 Bu projede, programın farklı koşullar altında nasıl davranacağını belirlemek için if, else if ve else ifadelerini kullanarak karar yapıları oluşturmayı öğrendim. Program mantığını koşullar üzerinden yönetme konusunda deneyim kazandım.
 
 🔹 Proje 5: Döngülerle Verimli Kod Yazma
+
 Tekrarlayan işlemleri otomatikleştirmek için for, while ve foreach döngülerini kullandım. Döngü yapılarıyla büyük veri setlerini işleme ve kod tekrarını önleyerek verimliliği artırma yeteneği kazandım.
 
 🔹 Proje 6: Fonksiyonlar ve Kod Modülerliği
